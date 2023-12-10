@@ -11,3 +11,7 @@ Description: This package contains 5 functions that replicate all steps in the c
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
