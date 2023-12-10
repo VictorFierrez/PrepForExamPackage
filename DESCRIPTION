@@ -1,0 +1,13 @@
+Package: PrepForExamPackage
+Type: Package
+Title: Central Dogma of Molecular Biology
+Version: 0.1.0
+Author: (given = "Víctor",
+         family = "Fiérrez",
+         role = c("aut", "cre"),
+         email = "s223196@dtu.dk")
+Maintainer: Víctor Fiérrez <s223196@dtu.dk>
+Description: This package contains 5 functions that replicate all steps in the central dogma of molecular biology: From DNA to Protein.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
